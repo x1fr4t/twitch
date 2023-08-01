@@ -1,0 +1,402 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: p\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "abc_search_hint"
+msgstr "Cerca…"
+
+msgid "about_section_header"
+msgstr "Informació"
+
+msgid "about_tab_header"
+msgstr "Informació"
+
+msgid "american_sign_language"
+msgstr "Llengua de signes americana"
+
+msgid "ban_username"
+msgstr "Baneja %1$s"
+
+msgid "block_whispers_details"
+msgstr ""
+"Els Xiuxiuejos seran blocats de tots els desconeguts tret que els donis "
+"permís. Un estrany és qualsevol que no sigui el vostre seguidor, sub, mod o "
+"editor."
+
+msgid "block_whispers_strangers"
+msgstr "Bloca els Xiuxiuejos de desconeguts"
+
+msgid "campaign_directions_channel"
+msgstr "Ves a un canal en directe que hi participi"
+
+msgid "cast_expanded_controller_ad_in_progress"
+msgstr "S'està executant l'anunci…"
+
+msgid "cast_expanded_controller_loading"
+msgstr "S'està carregant…"
+
+msgid "cast_expanded_controller_skip_ad_text"
+msgstr "Podeu ometre l'anunci en %1$d…"
+
+msgid "chat_ban"
+msgstr "Baneja l'usuari"
+
+msgid "chat_connected_user"
+msgstr "\"Benvingut a la sala de xat de %1$s!\""
+
+msgid "chat_input_label_alias_banned"
+msgstr "Banejat en un compte enllaçat"
+
+msgid "chat_whisper"
+msgstr "Xiuxiueig"
+
+msgid "checking_network_connection"
+msgstr "S'està comprovant la connexió…"
+
+msgid "chromecast_menu_item_title"
+msgstr "Juga amb…"
+
+msgid "clear_debug_experiments_override"
+msgstr "S'estan netejant les excepcions d'experiments…"
+
+msgid "clear_logged_experiments_override"
+msgstr "S'està netejant el magatzem d'experiments registrats…"
+
+msgid "continue_watching"
+msgstr "Continua veient"
+
+msgid "disable_whisper_access"
+msgstr "Inhabilita l'accés a Xiuxiuejos"
+
+msgid "drops_page_title"
+msgstr "Drops"
+
+msgid "featured_streams_all_live_channels"
+msgstr "Canals en directe destacats"
+
+msgid "featured_streams_live_channel_spotlight"
+msgstr "Indicador de canal en directe"
+
+msgid "feed_empty_title"
+msgstr "Silenci incòmode…"
+
+msgid "following_live_channels"
+msgstr "Els teus canals en directe"
+
+msgid "following_more_button_text"
+msgstr "Carrega'n més…"
+
+msgid "following_recommended_channels"
+msgstr "Canals recomanats per a tu"
+
+msgid "freeform_tags_no_results_title"
+msgstr "No hi ha canals en directe etiquetats \\\"%1$s\\\"."
+
+msgid "game_channels_title"
+msgstr "Canals en directe"
+
+msgid "gcm_dashboard"
+msgstr "Tauler del directe mòbil"
+
+msgid "guest_star_join_backstage_pending"
+msgstr "Esperant que l'amfitrió et deixi entrar…"
+
+msgid "guest_star_participant_overflow_menu_report_item"
+msgstr "Denuncia %1$s"
+
+msgid "guest_star_reconnecting_title"
+msgstr "S'està tornant a connectar…"
+
+msgid "ios_device"
+msgstr "dispositiu iOS"
+
+msgid "last_live_absolute_date_bolded"
+msgstr "Últim directe <b>%1$s</b>"
+
+msgid "last_live_relative_time_bolded"
+msgstr "Últim directe <b>%1$s</b>"
+
+msgid "live_channels"
+msgstr "Canals en directe"
+
+msgid "live_following_games_no_results_title"
+msgstr "No hi ha categories en directe disponibles"
+
+msgid "message_chat_hint"
+msgstr "Missatge de xat…"
+
+msgid "new_messages"
+msgstr "NOUS XIUXIUEJOS"
+
+msgid "new_sub_gift"
+msgstr "Regal comunitari nou"
+
+msgid "onboarding_description"
+msgstr "Mira %1$s. Guanya %2$s."
+
+msgid "onboarding_description_learn_more"
+msgstr ""
+"Desbloqueja recompenses. <a href=https://help.twitch.tv/s/article/channel-"
+"points-guide>Més informació.</a>"
+
+msgid "onboarding_games_cta"
+msgstr "Mostra'm els canals en directe"
+
+msgid "one_unread_whisper"
+msgstr "1 xiuxiueig nou"
+
+msgid "pbyp_view_delegate_hide"
+msgstr "Usa hideSidePlayerFrames() en el seu lloc"
+
+msgid "pbyp_view_delegate_show"
+msgstr "Usa showSidePlayerFrames() en el seu lloc"
+
+msgid "playing_game_for_viewers"
+msgstr "s'està transmetent <b>%1$s</b> per <b>%2$s</b> espectadors"
+
+msgid "prime_linking_progress_text"
+msgstr "S'està connectant el vostre compte…"
+
+msgid "recently_whispered"
+msgstr "Últims Xiuxiuejos"
+
+msgid "refresh_debug_experiments"
+msgstr "S'estan actualitzant els experiments…"
+
+msgid "report_username"
+msgstr "Denuncia %1$s"
+
+msgid "resub_notification_compose_text_hint"
+msgstr "Afegeix un missatge opcional per a %1$s…"
+
+msgid "schedule_tab_header"
+msgstr "Programació"
+
+msgid "search_channels_with_tags"
+msgstr "Canals en directe etiquetats \\\"%1$s\\\""
+
+msgid "search_top_label"
+msgstr "Top"
+
+msgid "send_mail"
+msgstr "Envia un correu…"
+
+msgid "setup_stream"
+msgstr "S'està configurant el programari d'emissió…"
+
+msgid "share_via"
+msgstr "Comparteix via…"
+
+msgid "share_with_whisper"
+msgstr "Comparteix mitjançant Xiuxiueig"
+
+msgid "start_a_whisper"
+msgstr "Inicia un xiuxiueig"
+
+msgid "starting_stream"
+msgstr "S'està iniciant el flux…"
+
+msgid "stranger_whisper_cannot_send"
+msgstr ""
+"Aquest usuari ha activat \\\"Bloqueja Xiuxiuejos de desconeguts\\\" en la "
+"seva configuració de privacitat i ha d'iniciar una conversa primer amb "
+"vosaltres."
+
+msgid "stranger_whisper_dialogue"
+msgstr ""
+"Vas bloquejar xiuxiuejos de desconeguts. Enviant un xiuxiueig permet que %1$"
+"s respongui durant 48 hores. Podeu desactivar l'accés a la configuració dels "
+"xiuxiuejos."
+
+msgid "streamer_rewards_title"
+msgstr "\"Les recompenses de %1$s\""
+
+msgid "tag_search_hint"
+msgstr "Cerca etiquetes…"
+
+msgid "tell_us_more"
+msgstr "Digues-nos més…"
+
+msgid "unlocking_random_sub_emote"
+msgstr "Activant la mecànica de sorpresa…"
+
+msgid "unverified_whisperer_message"
+msgstr ""
+"Heu de verificar el vostre correu electrònic o número de telèfon per enviar "
+"un xiuxiueig"
+
+msgid "whisper_forbidden"
+msgstr "No podeu enviar un xiuxiueig a aquest usuari."
+
+msgid "whisper_generic_error"
+msgstr "En aquest moment, no pots enviar un xiuxiueig."
+
+msgid "whisper_limit_per_min"
+msgstr "Estàs enviant xiuxiuejos massa ràpid. Torna-ho a provar en 1 minut."
+
+msgid "whisper_limit_per_sec"
+msgstr "Estàs enviant xiuxiuejos massa ràpid. Torna-ho a intentar en un segon."
+
+msgid "whisper_privacy_settings"
+msgstr "Configuració de la privadesa dels xiuxiuejos"
+
+msgid "whisper_response_has_neither_message_id_or_error_code_for_x_or_y"
+msgstr ""
+"La resposta del xiuxiueig no té ni l'identificador de missatge ni el codi "
+"d'error per a l'identificador d'usuari: %1$s al nom d'usuari: %2$s."
+
+msgid "whisper_restricted"
+msgstr "Els vostres paràmetres impedeixen que envieu aquest xiuxiueig."
+
+msgid "whisper_settings_empty"
+msgstr "El teu xiuxiueig no s'ha lliurat perquè estava buit."
+
+msgid "whisper_settings_not_delivered"
+msgstr "No s'ha lliurat el teu xiuxiueig"
+
+msgid "whisper_settings_prevented"
+msgstr ""
+"\"El teu xiuxiueig no es va lliurar perquè la configuració del destinatari "
+"els impedeix rebre-ho.\""
+
+msgid "whisper_settings_talkback"
+msgstr "Paràmetres del xiuxiueig"
+
+msgid "whisper_settings_user_not_verified"
+msgstr ""
+"No s'ha lliurat el vostre xiuxiueig perquè el vostre compte no està "
+"verificat."
+
+msgid "whisper_user"
+msgstr "Xiuxiueja %1$s"
+
+msgid "whispers_empty_button_text"
+msgstr "Xiuxiueja algú"
+
+msgid "whispers_hide_confirmation"
+msgstr ""
+"Segur que vols amagar aquest xiuxiueig? Si ho feu, se suprimirà de la llista "
+"de converses."
+
+msgid "whispers_name"
+msgstr "Xiuxiuejos"
+
+msgid "whispers_too_fast"
+msgstr "Estàs enviant xiuxiuejos massa ràpid. Torna-ho a provar més tard."
+
+msgid "x_plus_unread_whispers"
+msgstr "%1$d+ xiuxiuejos nous"
+
+msgid "x_unread_whispers"
+msgstr "%1$d xiuxiuejos nous"
+
+msgid "followed_upcoming_streams"
+msgstr "Directes propers"
+
+msgid "game_date_subtitle"
+msgstr "%1$s • %2$s"
+
+msgid "game_info_format"
+msgstr "%1$s • %2$s"
+
+msgid "game_time_subtitle"
+msgstr "%1$s • %2$s"
+
+msgid "search_vod_summary"
+msgstr "%1$s • %2$s"
+
+msgid "views_time_subtitle"
+msgstr "%1$s • %2$s"
+
+msgid "vod_time_game_subtitle"
+msgstr "%1$s | %2$s"
+
+msgid "channel_views"
+msgstr "Visualitzacions del canal"
+
+msgid "clip_view_count"
+msgstr "%1$s visualitzacions"
+
+msgid "time_series_title_clip_views"
+msgstr "Visualitzacions del clip"
+
+msgid "recommended_auto_host_channels_header"
+msgstr "%1$s suggereix aquests streamers"
+
+msgid "profile_schedule_header_next_stream"
+msgstr "\"El següent directe de %1$s és el %2$s a les %3$s.\""
+
+msgid "channel_past_broadcasts_header"
+msgstr "Emissions anteriors"
+
+msgid "notification_category_videos"
+msgstr "Emissions anteriors"
+
+msgid "channel_past_broadcast"
+msgstr "Emissió anterior"
+
+msgid "past_broadcast"
+msgstr "Emissió anterior"
+
+msgid "channel_highlights_header"
+msgstr "Destacats"
+
+msgid "recent_highlight"
+msgstr "Destacat recent"
+
+msgid "category_shelf_header"
+msgstr "\"Streams de %1$s per categoria\""
+
+msgid "clips_filter_featured_all"
+msgstr "Destacats: de tots els temps"
+
+msgid "clips_filter_featured_month"
+msgstr "Destacats: 30 dies"
+
+msgid "clips_filter_featured_today"
+msgstr "Destacats: 24 hores"
+
+msgid "clips_filter_featured_week"
+msgstr "Destacats: 7 dies"
+
+msgid "clips_filters_all"
+msgstr "Més populars (de tots els temps)"
+
+msgid "clips_filters_month"
+msgstr "Més populars (30 dies)"
+
+msgid "clips_filters_today"
+msgstr "Més populars (24 hores)"
+
+msgid "clips_filters_week"
+msgstr "Més populars (7 dies)"
+
+msgid "chat_rules_title"
+msgstr "Regles del xat"
+
+msgid "discover_user_education"
+msgstr ""
+"El lloc on podràs trobar streams recomanats en funció del que veus a Twitch."
+
+msgid "just_followed_streamer"
+msgstr "Acabes de seguir a <annotation foregroundColor="streamerName">%1$s</annotation>"
+
+msgid "profile_notification_text"
+msgstr "Notificacions d'emissió en directe"
+
+msgid "cookie_consent_dialog_title"
+msgstr "Benvingut a Twitch en català"
+
+msgid "cookie_consent_dialog_message"
+msgstr "Per descobrir qui està fent directe en català consulta:\\n<a href="https://directes.app">directes.app</a>\\n\\nSegueix-nos a Twitter per estar al dia:\\n<a href="https://twitter.com/TwitchCatala">@TwitchCatala</a>\\n\\nAcceptes les galetes de Twitch? Consulta <annotation boldClickable="cookie_notice_url">l\'avís de les galetes</annotation> per a més informació."
